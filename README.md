@@ -1,4 +1,4 @@
-# Git-Komet
+# Git-Komet granja410-sourve
 
 Система автооценки эффективности команд через анализ Git-метрик.
 Team Effectiveness Analysis System Through Git Metrics from T1 Сфера.Код.
